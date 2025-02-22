@@ -7,7 +7,7 @@
 - разработал административную часть сайта.
 
 ## Ссылка на сайт
-[https://MaximBestInTheWorld.github.io/shfe-diplom/](https://maximbestintheworld.github.io/GraduateWork-Frontend-Developer/)
+https://maximbestintheworld.github.io/GraduateWork-Frontend-Developer/
 
 Вход в админку:
 login: shfe-diplom@netology.ru
